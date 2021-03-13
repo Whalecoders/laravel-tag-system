@@ -9,14 +9,12 @@
 
 ## Documentation
 
-<p><strong>1 - Go to Command</strong></p>
-<p><strong>2 - Enter the folder path</strong></p>
-<p><strong>3 - npm install</strong></p>
-<p><strong>4 - npm run dev</strong></p>
-<p><strong>5 - create database</strong></p>
-<p><strong>6 - connect laravel project to database</strong></p>
-<p><strong>7 - php artisan migrate</strong></p>
-<p><strong>8 - php artisan serve</strong></p>
+<p><strong>1 - npm install</strong></p>
+<p><strong>2 - npm run dev</strong></p>
+<p><strong>3 - create database</strong></p>
+<p><strong>4 - connect laravel project to database</strong></p>
+<p><strong>5 - php artisan migrate</strong></p>
+<p><strong>6 - php artisan serve</strong></p>
 
 ## About Laravel
 
