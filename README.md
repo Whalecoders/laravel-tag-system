@@ -63,11 +63,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Documentation
 
-1 - Go to Command
-2 - Enter the folder path
-3 - npm install
-4 - npm run dev
-5 - create database
-6 - connect laravel project to database
-7 - php artisan migrate
-8 - php artisan serve
+<p><strong>1 - Go to Command</strong></p>
+<p><strong>2 - Enter the folder path</strong></p>
+<p><strong>3 - npm install</strong></p>
+<p><strong>4 - npm run dev</strong></p>
+<p><strong>5 - create database</strong></p>
+<p><strong>6 - connect laravel project to database</strong></p>
+<p><strong>7 - php artisan migrate</strong></p>
+<p><strong>8 - php artisan serve</strong></p>
